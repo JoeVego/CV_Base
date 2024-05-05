@@ -1,0 +1,1 @@
+jupyter notebook --notebook-dir=M: --NotebookApp.iopub_data_rate_limit=1.0e10
